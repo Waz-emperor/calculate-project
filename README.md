@@ -1,0 +1,1 @@
+Select 1 option, then click on button "calculate" and after u will get result
