@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+.calculator {
+    width: 200px;
+    height: 300px;
+    font-size: 3em;
+    position: absolute;
+    left: 40%;
+    margin-block: 400px;
+}
+
+input {
+    font-size: 1em;
+}
+
+button, select {
+    width: 100px;
+    height: 50px;
+}
+
